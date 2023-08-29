@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-<h3 align="center">Senior Computer Engineering Student and Developer</h3>
+<h3 align="center">Computer Engineer and Developer</h3>
 
 - 🌱 I’m currently learning **.net and golang**
 
